@@ -7,6 +7,7 @@ Given
 Grid(5x6):
 | First Header  | Second Header |
 | ------------- | ------------- |
+| First Header  | Second Header |
 
 |0 |1 |0 | 0 |0 | 0 |
 |0 |1 |0 | 0 | 0 | 0 |
