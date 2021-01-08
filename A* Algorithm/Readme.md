@@ -5,9 +5,9 @@ At first, the problem is modeled using classes in C++ and later solve it with th
 
 Given
 Grid(5x6):
-| First Header  | Second Header |
-| ------------- | ------------- |
-| First Header  | Second Header |
+| C1  | C2 | C3  | C4 | C5  | C6 |
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- |
+|0 |1 |0 | 0 |0 | 0 |
 
 |0 |1 |0 | 0 |0 | 0 |
 |0 |1 |0 | 0 | 0 | 0 |
