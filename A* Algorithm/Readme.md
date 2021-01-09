@@ -13,7 +13,7 @@ Grid(5x6):
 |0 |1 | 0 | 0 |**0** |0 |
 |0 |0 |0 |1 |1 | 0 |
 
-Where 1's represent obstacles and 0's represent free space.
+Where 1's represent obstacles and 0's represent free space (Higlighted in Bold).
 
 Robot Start position: 0,0
 Robot Goal Position: 4,5
